@@ -22,6 +22,53 @@ Este projeto realiza uma Análise Exploratória de Dados (EDA) sobre o fluxo esc
 
 
 
+Crie e ative o ambiente virtual:
+    Bash
+
+    python3 -m venv venv
+    source venv/bin/activate
+
+    Instale as dependências:
+    Bash
+
+    pip install pandas seaborn matplotlib numpy
+
+    Execute o script:
+    Bash
+
+    python escola.py
+
+📊 Insights Obtidos
+
+    Adicione aqui as suas conclusões sobre os gráficos gerados!
+
+    Exemplo: "Notou-se que as Diretorias de Ensino X e Y possuem os melhores índices..."
+
+
+---
+
+## Próximo Passo: Atualizar o GitHub
+
+Agora que o seu código `escola.py` está funcionando e não dá mais erro, salve-o no seu computador e envie as atualizações para o GitHub usando o terminal:
+
+```bash
+# 1. Veja os arquivos modificados
+git status
+
+# 2. Adicione as mudanças
+git add escola.py README.md
+
+# 3. Crie a mensagem da alteração
+git commit -m "Fix: Correção na conversão de tipos e colunas do projeto"
+
+# 4. Envie para o GitHub
+git push origin main
+
+
+
+
+
+
 # escolaseduc2026
 Dados das escolas taxa de aprovação de ensino medio e fundamnental
 Formado em Ciências de Dados, criei um acesso Banco de dados da Seduc Sp, obtemos a linguaguem a partir do CSV.
