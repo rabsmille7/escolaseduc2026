@@ -1,3 +1,27 @@
+# Análise do Fluxo Escolar da SEDUC-SP (2024)
+
+Este projeto realiza uma Análise Exploratória de Dados (EDA) sobre o fluxo escolar (taxas de aprovação, reprovação e abandono) nas Diretorias de Ensino do Estado de São Paulo.
+
+## 📌 Objetivos
+* Compreender a distribuição das taxas de aprovação no Ensino Médio.
+* Avaliar se o abandono escolar no Ensino Fundamental está correlacionado com o Ensino Médio.
+* Identificar as 10 Diretorias de Ensino com melhor desempenho em aprovação.
+
+## 🛠️ Tecnologias Utilizadas
+* **Python 3.12**
+* **Pandas**: Limpeza e manipulação dos dados.
+* **Seaborn & Matplotlib**: Visualização de dados e gráficos.
+
+## 📂 Como Executar o Projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/rabsmille7/escolaseduc2026.git](https://github.com/rabsmille7/escolaseduc2026.git)
+   cd escolaseduc2026
+
+
+
+
 # escolaseduc2026
 Dados das escolas taxa de aprovação de ensino medio e fundamnental
 Formado em Ciências de Dados, criei um acesso Banco de dados da Seduc Sp, obtemos a linguaguem a partir do CSV.
